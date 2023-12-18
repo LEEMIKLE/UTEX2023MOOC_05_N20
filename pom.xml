@@ -20,6 +20,16 @@
 				<version>3.2.3</version>
 			</plugin>
 		</plugins>
+		<plugins>
+		        <plugin>
+		            <groupId>org.apache.maven.plugins</groupId>
+		            <artifactId>maven-war-plugin</artifactId>
+		            <version>3.2.3</version>
+		            <configuration>
+		                <warName>AmazonBookStore</warName>
+		            </configuration>
+		        </plugin>
+		</plugins>
 	</build>
 
 	<dependencies>
