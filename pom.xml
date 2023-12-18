@@ -22,7 +22,8 @@
                 <version>2.4.4</version>
                 <configuration>
                     <version>1</version>
-                    <projectId>GCLOUD_CONFIG</projectId>
+                    <projectId>nhom20cloud2023ute</projectId> <!-- Updated Project ID -->
+                    <devserver.port>8080</devserver.port> <!-- Port for local development -->
                 </configuration>
             </plugin>
             <plugin>
